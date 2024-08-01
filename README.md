@@ -10,8 +10,10 @@ blog/
 ├── stocks.html
 ├── misc.html
 ├── others.html
+├── jump.html       # 新增的跳转页面
 ├── styles.css
 └── scripts.js
+
 
 
 ## 文件说明
@@ -21,6 +23,8 @@ blog/
 - `stocks.html`: 股票数据板块页面
 - `misc.html`: 杂谈板块页面
 - `others.html`: 其他板块页面
+- `jump.html`:博客的跳转页面
 - `styles.css`: 博客的样式表
 - `scripts.js`: 博客的JavaScript文件
+
 
